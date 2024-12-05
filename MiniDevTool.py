@@ -12,6 +12,7 @@ HOW TO ADD NEW FUNCTIONS?
         ""
         if value == < int >:
             < alias >.< function >
+            p()
         ""
 OR Add:::
     3(2)A. Add to "def RUN(value):":::
@@ -72,7 +73,8 @@ printAtBreak = "--- --- --- --- --- --- --- --- --- --- --- --- --- --- --- --- 
 if __name__ == "__main__":
     while True:
         userInput = getUserInput(1)
-        p()
+        p() #universal blank line
         RUN(userInput)
         a.specialPrint(printAtBreak, a.Bold + a.Magenta)
-        a.specialPrint(printAtBreak + "\n", a.Bold + a.Cyan)
+        a.specialPrint(printAtBreak, a.Bold + a.Cyan)
+        p() #universal blank line
