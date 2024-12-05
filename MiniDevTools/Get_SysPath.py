@@ -1,5 +1,5 @@
-import sys
 import TerminalFormatting as a
+import sys
 
 def sysPath():
     a.specialPrint("Items in sys.path:", a.Dim)

@@ -1,3 +1,1 @@
-Runs the programs in the MiniDevTools folder via MiniDevTool.py as:
-	Run in the same window.
-	Run in a new window.
+Runs the programs in the MiniDevTools folder via MiniDevTool.py.
