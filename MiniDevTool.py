@@ -1,4 +1,4 @@
-import TerminalFormatting as a
+import vinTerminalFormatting as a
 import subprocess
 
 ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ### ###

@@ -1,4 +1,4 @@
-import TerminalFormatting as a
+import vinTerminalFormatting as a
 from pyautogui import position as mousePosition
 from time import sleep
 
